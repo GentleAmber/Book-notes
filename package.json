@@ -1,0 +1,24 @@
+{
+  "name": "3-book-notes",
+  "version": "1.0.0",
+  "description": "To create, edit, and delete book notes for single user.",
+  "license": "ISC",
+  "author": "Amber",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0",
+    "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "jquery": "^3.7.1",
+    "pg": "^8.16.3",
+    "pg-pool": "^3.10.1"
+  }
+}
